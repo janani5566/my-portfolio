@@ -27,7 +27,7 @@
 }
 .topcontent__container > h1{
     font-size: 40px;
-    font-family: "motserrat" , sans-serif;
+    font-family: "Montserrat" , sans-serif;
 }
 
 .topcontent__downloadbutton{
@@ -35,7 +35,7 @@
     background-color: #f64c08;
     font-size: 14px;
     padding: 10px 30px;
-    font-family: "motserrat" , sans-serif;
+    font-family: "Monserrat" , sans-serif;
     font-weight: 300;
     cursor: pointer;
     margin-right: 20px;
@@ -51,7 +51,7 @@
     background-color: transparent;
     font-size: 14px;
     padding: 9px 45px;
-    font-family: "montserrat" , sans-serif;
+    font-family: "Montserrat" , sans-serif;
     font-weight: 300;
     cursor: pointer;
 }
