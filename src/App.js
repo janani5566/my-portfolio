@@ -4,6 +4,7 @@ import Projectcontainer from './Components/Projectcontainer/Projectcontainer'
 import Skillcontainer from './Components/Skillcontainer/Skillcontainer'
 import Topcontainer from './Components/Topcontainer/Topcontainer'
 import "./App.css"
+import Experiencecontainer from './Components/Experiencecontainer/Experiencecontainer'
 const App = () => {
   return (
     <div>
@@ -11,6 +12,7 @@ const App = () => {
       <Topcontainer />
       <Skillcontainer />
       <Projectcontainer />
+      <Experiencecontainer />
     </div>
   )
 }
