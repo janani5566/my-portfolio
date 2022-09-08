@@ -7,7 +7,7 @@ import "./Contact.css"
 const Contact = () => {
   return (
     <Element className="contact" id="contact">
-      <h1>
+      <h1>Contact</h1>
         <div className="contact__container">
             <p>
                 Email : <span>subhakamaraj@gmail.com</span>
@@ -15,7 +15,7 @@ const Contact = () => {
             <p>
                 Github Username : <span>@janani5566</span>
             </p>
-            <div className="contact_icons">
+            <div className="contact__icons">
               <a href="google.com">
                  <IconButton>
                     <LinkedIn />
@@ -34,7 +34,6 @@ const Contact = () => {
             </div>
 
         </div>
-      </h1>
     </Element>
   )
 }
